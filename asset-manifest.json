@@ -1,0 +1,37 @@
+{
+  "files": {
+    "main.css": "/frameszon/static/css/main.62827b5c.css",
+    "main.js": "/frameszon/static/js/main.bc71a0fe.js",
+    "static/media/banner1.png": "/frameszon/static/media/banner1.3ca64fe6d9f81f416625.png",
+    "static/media/aboutus.png": "/frameszon/static/media/aboutus.51f137b0d220d9f81024.png",
+    "static/media/banner3.png": "/frameszon/static/media/banner3.badfded33f8e073a3ce6.png",
+    "static/media/geometric.png": "/frameszon/static/media/geometric.3734b2eca610a450fce9.png",
+    "static/media/logo.png": "/frameszon/static/media/logo.2edd21d7e25d71bf3be4.png",
+    "static/media/lights.png": "/frameszon/static/media/lights.cfa2bdac4afc2bdad761.png",
+    "static/media/rimless.png": "/frameszon/static/media/rimless.4da04f74cf8129e17693.png",
+    "static/media/oversized.png": "/frameszon/static/media/oversized.3351476423ffb57738f4.png",
+    "static/media/rectangle.png": "/frameszon/static/media/rectangle.ebc083bac7cf066d7948.png",
+    "static/media/sunglasses.png": "/frameszon/static/media/sunglasses.924fa8f4d4487d584e6a.png",
+    "static/media/browline.png": "/frameszon/static/media/browline.ac59dd400c4ccfb828a6.png",
+    "static/media/premium.png": "/frameszon/static/media/premium.da2472176e8dd0c8e860.png",
+    "static/media/pngegg_3.png": "/frameszon/static/media/pngegg_3.11acd4f38c23d207ce88.png",
+    "static/media/banner2.png": "/frameszon/static/media/banner2.3d942e33e16e91c79e7f.png",
+    "static/media/round.png": "/frameszon/static/media/round.4b968ed798735635ce21.png",
+    "static/media/cateye.png": "/frameszon/static/media/cateye.d92147d6b42feaf80a86.png",
+    "static/media/square.png": "/frameszon/static/media/square.23febbb13c2a4ce7a1ce.png",
+    "static/media/pngegg.png": "/frameszon/static/media/pngegg.a706449df5d6b4adc032.png",
+    "static/media/pngegg_2.png": "/frameszon/static/media/pngegg_2.6ae48a4df8964f118098.png",
+    "static/media/aviator.png": "/frameszon/static/media/aviator.5eaa2ee1c9f319e4f69b.png",
+    "static/media/newcollection.png": "/frameszon/static/media/newcollection.302a79a59a95524f37c7.png",
+    "static/media/baby.png": "/frameszon/static/media/baby.bc6f9d131dabf3177358.png",
+    "static/media/woman.png": "/frameszon/static/media/woman.e855238a0ee42cecc436.png",
+    "static/media/man.png": "/frameszon/static/media/man.f9c98e6bb33ddb1fb51c.png",
+    "index.html": "/frameszon/index.html",
+    "main.62827b5c.css.map": "/frameszon/static/css/main.62827b5c.css.map",
+    "main.bc71a0fe.js.map": "/frameszon/static/js/main.bc71a0fe.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.62827b5c.css",
+    "static/js/main.bc71a0fe.js"
+  ]
+}
