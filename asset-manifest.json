@@ -1,11 +1,11 @@
 {
   "files": {
     "main.css": "/frameszon/static/css/main.6d33dde1.css",
-    "main.js": "/frameszon/static/js/main.26f7c456.js",
-    "static/media/banner1.png": "/frameszon/static/media/banner1.3ca64fe6d9f81f416625.png",
+    "main.js": "/frameszon/static/js/main.22e482e2.js",
     "static/media/aboutus.png": "/frameszon/static/media/aboutus.51f137b0d220d9f81024.png",
-    "static/media/banner3.png": "/frameszon/static/media/banner3.badfded33f8e073a3ce6.png",
+    "static/media/banner1.png": "/frameszon/static/media/banner1.0e78dfadcec3c9561e3f.png",
     "static/media/geometric.png": "/frameszon/static/media/geometric.3734b2eca610a450fce9.png",
+    "static/media/banner3.png": "/frameszon/static/media/banner3.180444ea2253f02ef5d3.png",
     "static/media/logo.png": "/frameszon/static/media/logo.2edd21d7e25d71bf3be4.png",
     "static/media/Versace.png": "/frameszon/static/media/Versace.bb25c6e8f2422b1a8920.png",
     "static/media/rimless.png": "/frameszon/static/media/rimless.4da04f74cf8129e17693.png",
@@ -47,10 +47,10 @@
     "static/media/slick.woff": "/frameszon/static/media/slick.295183786cd8a1389865.woff",
     "index.html": "/frameszon/index.html",
     "main.6d33dde1.css.map": "/frameszon/static/css/main.6d33dde1.css.map",
-    "main.26f7c456.js.map": "/frameszon/static/js/main.26f7c456.js.map"
+    "main.22e482e2.js.map": "/frameszon/static/js/main.22e482e2.js.map"
   },
   "entrypoints": [
     "static/css/main.6d33dde1.css",
-    "static/js/main.26f7c456.js"
+    "static/js/main.22e482e2.js"
   ]
 }
