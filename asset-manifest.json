@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/frameszon/static/css/main.6d33dde1.css",
-    "main.js": "/frameszon/static/js/main.ea126fc5.js",
+    "main.js": "/frameszon/static/js/main.26f7c456.js",
     "static/media/banner1.png": "/frameszon/static/media/banner1.3ca64fe6d9f81f416625.png",
     "static/media/aboutus.png": "/frameszon/static/media/aboutus.51f137b0d220d9f81024.png",
     "static/media/banner3.png": "/frameszon/static/media/banner3.badfded33f8e073a3ce6.png",
@@ -47,10 +47,10 @@
     "static/media/slick.woff": "/frameszon/static/media/slick.295183786cd8a1389865.woff",
     "index.html": "/frameszon/index.html",
     "main.6d33dde1.css.map": "/frameszon/static/css/main.6d33dde1.css.map",
-    "main.ea126fc5.js.map": "/frameszon/static/js/main.ea126fc5.js.map"
+    "main.26f7c456.js.map": "/frameszon/static/js/main.26f7c456.js.map"
   },
   "entrypoints": [
     "static/css/main.6d33dde1.css",
-    "static/js/main.ea126fc5.js"
+    "static/js/main.26f7c456.js"
   ]
 }
