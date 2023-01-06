@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/frameszon/static/css/main.6d33dde1.css",
-    "main.js": "/frameszon/static/js/main.7073720c.js",
+    "main.js": "/frameszon/static/js/main.ea126fc5.js",
     "static/media/banner1.png": "/frameszon/static/media/banner1.3ca64fe6d9f81f416625.png",
     "static/media/aboutus.png": "/frameszon/static/media/aboutus.51f137b0d220d9f81024.png",
     "static/media/banner3.png": "/frameszon/static/media/banner3.badfded33f8e073a3ce6.png",
@@ -23,8 +23,20 @@
     "static/media/newcollection.png": "/frameszon/static/media/newcollection.302a79a59a95524f37c7.png",
     "static/media/persol.jpg": "/frameszon/static/media/persol.d9a64728d2425d237d9e.jpg",
     "static/media/Prada.png": "/frameszon/static/media/Prada.22b6b3efc3609a0baec4.png",
+    "static/media/6.webp": "/frameszon/static/media/6.92f609d3044405257132.webp",
+    "static/media/4.webp": "/frameszon/static/media/4.5fac550a1749034fac07.webp",
     "static/media/burberry.png": "/frameszon/static/media/burberry.ba6626129163a643e0d2.png",
+    "static/media/9.webp": "/frameszon/static/media/9.90fe82ca3577ebd9a7bd.webp",
+    "static/media/8.webp": "/frameszon/static/media/8.ba38dc25a70243f89863.webp",
+    "static/media/7.webp": "/frameszon/static/media/7.cdf6ff1f4507b74d6428.webp",
     "static/media/tomford.jpg": "/frameszon/static/media/tomford.b307021f3f09065b0cba.jpg",
+    "static/media/10.webp": "/frameszon/static/media/10.52e68f6a60735d1443ef.webp",
+    "static/media/5.webp": "/frameszon/static/media/5.f0dddb42638e9d38821b.webp",
+    "static/media/2.webp": "/frameszon/static/media/2.69a26cd2ebd96277e54a.webp",
+    "static/media/12.webp": "/frameszon/static/media/12.31e61f28a74f0aced07d.webp",
+    "static/media/3.webp": "/frameszon/static/media/3.c149ac23c1095abe1a57.webp",
+    "static/media/1.webp": "/frameszon/static/media/1.9328e8eddbea4d973a70.webp",
+    "static/media/11.webp": "/frameszon/static/media/11.d849d350bb1de99499f9.webp",
     "static/media/slick.svg": "/frameszon/static/media/slick.2630a3e3eab21c607e21.svg",
     "static/media/rayban.webp": "/frameszon/static/media/rayban.636ddcd34291f7ea30b7.webp",
     "static/media/slick.eot": "/frameszon/static/media/slick.a4e97f5a2a64f0ab1323.eot",
@@ -35,10 +47,10 @@
     "static/media/slick.woff": "/frameszon/static/media/slick.295183786cd8a1389865.woff",
     "index.html": "/frameszon/index.html",
     "main.6d33dde1.css.map": "/frameszon/static/css/main.6d33dde1.css.map",
-    "main.7073720c.js.map": "/frameszon/static/js/main.7073720c.js.map"
+    "main.ea126fc5.js.map": "/frameszon/static/js/main.ea126fc5.js.map"
   },
   "entrypoints": [
     "static/css/main.6d33dde1.css",
-    "static/js/main.7073720c.js"
+    "static/js/main.ea126fc5.js"
   ]
 }
