@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/frameszon/static/css/main.e8906e46.css",
-    "main.js": "/frameszon/static/js/main.bca844ae.js",
+    "main.css": "/frameszon/static/css/main.eb7d53bd.css",
+    "main.js": "/frameszon/static/js/main.7e7bacae.js",
     "static/media/wintersale.png": "/frameszon/static/media/wintersale.de3d6d69a4d7cea55d33.png",
     "static/media/aboutus.png": "/frameszon/static/media/aboutus.51f137b0d220d9f81024.png",
     "static/media/location.png": "/frameszon/static/media/location.8687613e16e77a031606.png",
@@ -15,13 +15,18 @@
     "static/media/sunglasses.png": "/frameszon/static/media/sunglasses.924fa8f4d4487d584e6a.png",
     "static/media/browline.png": "/frameszon/static/media/browline.ac59dd400c4ccfb828a6.png",
     "static/media/pngegg.png": "/frameszon/static/media/pngegg.61757be4573c5d8e2d47.png",
+    "static/media/location_mobile.png": "/frameszon/static/media/location_mobile.2d6165a1d9071985abf7.png",
     "static/media/round.png": "/frameszon/static/media/round.4b968ed798735635ce21.png",
     "static/media/cateye.png": "/frameszon/static/media/cateye.d92147d6b42feaf80a86.png",
     "static/media/square.png": "/frameszon/static/media/square.23febbb13c2a4ce7a1ce.png",
     "static/media/gucci.png": "/frameszon/static/media/gucci.f18ff5a24997c69e0484.png",
+    "static/media/wintersale_mobile.png": "/frameszon/static/media/wintersale_mobile.cb7bbae4268e37d75249.png",
     "static/media/aviator.png": "/frameszon/static/media/aviator.5eaa2ee1c9f319e4f69b.png",
     "static/media/newcollection.png": "/frameszon/static/media/newcollection.302a79a59a95524f37c7.png",
+    "static/media/walkin_mobile.png": "/frameszon/static/media/walkin_mobile.12afff752c0c66d1e58f.png",
+    "static/media/luxury_mobile.jpg": "/frameszon/static/media/luxury_mobile.533601e562278bee266e.jpg",
     "static/media/4.jpg": "/frameszon/static/media/4.d7d3dff71df5fa0f150d.jpg",
+    "static/media/luxury.jpg": "/frameszon/static/media/luxury.4c71c21cb4583cc8a106.jpg",
     "static/media/5.jpg": "/frameszon/static/media/5.21e4b017ab5b24e69beb.jpg",
     "static/media/3.jpg": "/frameszon/static/media/3.916b220d4d3853e9d156.jpg",
     "static/media/persol.jpg": "/frameszon/static/media/persol.d9a64728d2425d237d9e.jpg",
@@ -48,11 +53,11 @@
     "static/media/TH.webp": "/frameszon/static/media/TH.049321034aa26fdedb30.webp",
     "static/media/slick.woff": "/frameszon/static/media/slick.295183786cd8a1389865.woff",
     "index.html": "/frameszon/index.html",
-    "main.e8906e46.css.map": "/frameszon/static/css/main.e8906e46.css.map",
-    "main.bca844ae.js.map": "/frameszon/static/js/main.bca844ae.js.map"
+    "main.eb7d53bd.css.map": "/frameszon/static/css/main.eb7d53bd.css.map",
+    "main.7e7bacae.js.map": "/frameszon/static/js/main.7e7bacae.js.map"
   },
   "entrypoints": [
-    "static/css/main.e8906e46.css",
-    "static/js/main.bca844ae.js"
+    "static/css/main.eb7d53bd.css",
+    "static/js/main.7e7bacae.js"
   ]
 }
