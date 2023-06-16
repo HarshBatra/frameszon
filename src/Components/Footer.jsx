@@ -61,7 +61,7 @@ const Footer = () => {
           <p className="text-xl md:text-4xl font-bold text-slate-500">
             WhatsApp
           </p>
-          <a href="https://api.whatsapp.com/send/?phone=%2B919560947266&text=Hello,+I%27m+interested+in+purchasing+eyeglasses.+Please+share+the+catalogue&app_absent=0">
+          <a href="https://api.whatsapp.com/send/?phone=%2B917982610896&text=Hello,+I%27m+interested+in+purchasing+eyeglasses.+Please+share+the+catalogue&app_absent=0">
             <button className="mt-10 py-4 flex justify-center items-center bg-transparent transition-all text-slate-500 font-bold px-4 border border-slate-500 w-72 h-8 ml-[-0.6rem] rounded-2xl hover:bg-slate-500 hover:text-white">
               <div className="flex flex-row gap-1">
                 Chat Now <BsWhatsapp className="text-[1.3rem] ml-2" />

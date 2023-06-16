@@ -48,7 +48,7 @@ const Navbar = () => {
         </div>
         <div className="flex flex-row md:ml-16 md:mt-0 mt-8 gap-x-8 font-medium align-middle justify-center content-center text-center items-center">
           <a
-            href="https://api.whatsapp.com/send/?phone=%2B919560947266&text=Hello,+I%27m+interested+in+purchasing+eyeglasses.+Please+share+the+catalogue&app_absent=0"
+            href="https://api.whatsapp.com/send/?phone=%2B917982610896&text=Hello,+I%27m+interested+in+purchasing+eyeglasses.+Please+share+the+catalogue&app_absent=0"
             onClick={handleOnClick}
           >
             <button className="bg-slate-500 transition-all text-white hover:bg-white hover:text-slate-500 hover:border-slate-500 hover:border-2 w-32 h-8 px-4 rounded flex flex-row align-middle justify-center content-center text-center items-center">
